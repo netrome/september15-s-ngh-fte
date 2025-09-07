@@ -7,13 +7,13 @@ R: humppa
 K: Am
 EF||"Am" E2A,B,|CCEF|"E7"E2 B,C|DDEF|
 w: Låt gal-osch-er-na nöt-a, trott-o-a-ren den blö-ta. Låt pam-
-|E2 B,C|D2 EF|"Am"E4|z2 A_B|
+E2 B,C|D2 EF|"Am"E4|z2 A_B|
 w: push-er-na klaf-sa i rad. Al-la
-|"A7" A2 EF|GE A_B|"Dm" A2 DE|FAGF|
+"A7" A2 EF|GE A_B|"Dm" A2 DE|FAGF|
 w: män-ni-skor ras-kar bort från reg-net som plas-kar. Det är
-|"Am" A2 EC|"E7" E2 DB,|"Am" A,4|z2 A,C||
+"Am" A2 EC|"E7" E2 DB,|"Am" A,4|z2 A,C||
 w: visst ba-ra jag som är glad. När jag
-|"E7" C2 B,2|z2 B,D|"Am" D2 C2|z2 CE|"G" E2 D2|z2 DG|"C" G4|z2 EG|
+"E7" C2 B,2|z2 B,D|"Am" D2 C2|z2 CE|"G" E2 D2|z2 DG|"C" G4|z2 EG|
 w: spe-lar på mitt drag-spel är det ing-en som för-står. Men vad
 |:"Dm" G2 F2|z2 DF|"Am" F2 E2|z2 DC|"Bb"D4|"E7"E4|"Am" A,4|[1 z2 EG]:|
 w: gör det att det reg-nar när man fyl-ler år. Ja vad
@@ -30,13 +30,24 @@ L: 1/8
 Q: 1/4=110
 R: schottis
 K: Am
+%
+% --  Intro --
+%
 |:"Am" Ae z f"F"c z eB|"E7" z eB z dBcB:|
 L: 1/16
+%
+% --  Vers --
+%
+|a,za,a, z3 a, a,za,a, z4|a,za,a, za,za, a,za,a, z4|
+w: Klock-on slår, nu är det dags. All be-kym-ber för-svin-ner strax
+%
+% -- Refräng --
+%
 A,B,CD|:"Am" E2A,2E2A,2 "F" z F z F F2E2|"G" B,2B,2 C2D2 "C" E4 z4|
 w: Vi ska ba-da bas-tu, bas-tu. Ång-on opp och släpp all stress i-dag.
-|"F" A,z A,A,z A,A,A, "Dm7" Cz CCz CCz|"E7" B,2C2 B,2C2 B,2 z2 A,B,CD |
+"F" A,z A,A,z A,A,A, "Dm7" Cz CCz CCz|"E7" B,2C2 B,2C2 B,2 z2 A,B,CD |
 w: Bas-tu-brö-der e je vi som glö-der, hun-dra gra-der, nå-jaa. Ba-ra ba-da
-|"Am" E2A,2E2A,2 "F" z F z F F2E2 | "G" B,2B,2 C2D2 "C" E4 z2 A, |
+"Am" E2A,2E2A,2 "F" z F z F F2E2 | "G" B,2B,2 C2D2 "C" E4 z2 A, |
 w: bas-tu, bas-tu. Heit-tää på, så svet-tin ba-ra yr. Oh
-|"F" F2 zE D2 z C "Dm6" B,4 z4 | "Em" B,2C2 B,2G,2 "Am" A,4 z4 :|
-w: whoa-a-a-a-ah, ba-da bas-tu jåa.
+"F" F2 zE D2 z C "Dm6" B,4 z4 | [1 "Em" B,2C2 B,2G,2 "Am" A,4 A,B,CD] :| [2 "Em" B,2C2 B,2G,2 "Am" A,4 z2z2 ]
+w: whoa-a-a-a-ah, ba-da bas-tu jåa. Vi ska ba-da ba-da bas-tu jåa.
